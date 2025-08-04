@@ -13,6 +13,7 @@
 - [How to increasing MySQL max connections](checklists/mysql-max-connection.md)
 - [How to Creating a New VLAN (Zone) in MikroTik RouterOS](checklists/new-zone-microtik-esxi.md)
 - [How to Create new Vlan in ESXi](checklists/vlan-esxi.md)
+- [How to Add IP for ssh access on new VM](checklists/add-ip-vm.md)
 
 ---
 
