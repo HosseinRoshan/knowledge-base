@@ -1,8 +1,7 @@
 # 📚 Knowledge Base
 
-به صفحه مدیریت دانش خوش اومدی!  
-اینجا همه‌ی چک‌لیست‌ها و دستورالعمل‌های کاری نگهداری می‌شن.  
-هدف اینه که همه فرایندها مستند، قابل دسترس و به‌روز باشن. ✅
+به صفحه مدیریت دانش خوش اومدی
+اینجا همه‌ی چک‌لیست‌ها و دستورالعمل‌های کاری نگهداری می‌شن.
 
 ---
 
@@ -11,6 +10,7 @@
 - [Mail DNS Setup](checklists/mail-dns-setup.md)
 - [white list an IP address with pfsense](checklists/pfsense-ip-whitelist.md)
 - [How to activate ssh in ESXi](checklists/esxi-ssh.md)
+- [How to increasing MySQL max connections](checklists/mysql-max-connection.md)
 
 ---
 
