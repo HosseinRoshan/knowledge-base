@@ -8,20 +8,24 @@
 
 ## 📋 Checklists
 
-- [Mail DNS Setup](checklists/mail-dns-setup.md)  
+- [Mail DNS Setup](checklists/mail-dns-setup.md)
+- [white list an IP address with pfsense](checklists/pfsense-ip-whitelist.md)
+- [How to activate ssh in ESXi](checklists/esxi-ssh.md)
 
 ---
 
 ## 🔧 Bugdasht Processes
 
 - [How to Download PoC from bugdasht server](Bugdasht/download-poc.md)
+- [How to create staff VPN](Bugdasht/staff_vpn_creation.md)
+- [How to deploy backend app](Bugdasht/backend-app-deployment.md)
+- [How to deploy frontend app](Bugdasht/frontend-app-deployment.md)
 
 ---
 
-## 📖 Documentation
+## 📖 Sonar Processes
 
-- [Company IT Policies](docs/it-policies.md)  
-- [Backup Strategy](docs/backup-strategy.md)  
+- [Sonar IP Whitelist Setup Checklist (pfSense)](Sonar/sonar-ip-whitelist.md)
 
 ---
 
