@@ -1,4 +1,4 @@
-# Increasing MySQL Max Connections
+# ✅ Increasing MySQL Max Connections
 
 ## Steps
 
