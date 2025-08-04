@@ -8,16 +8,13 @@
 
 ## 📋 Checklists
 
-- [DNS Setup](checklists/dns-setup.md)  
-- [Email Server Configuration](checklists/email-setup.md)  
-- [Server Hardening](checklists/server-hardening.md)  
+- [Mail DNS Setup](checklists/mail-dns-setup.md)  
 
 ---
 
-## 🔧 Processes
+## 🔧 Bugdasht Processes
 
-- [How to Deploy a New Server](processes/deploy-server.md)  
-- [How to Configure SSL Certificates](processes/ssl-setup.md)  
+- [How to Download PoC from bugdasht server](Bugdasht/download-poc.md)
 
 ---
 
