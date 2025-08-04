@@ -11,6 +11,7 @@
 - [white list an IP address with pfsense](checklists/pfsense-ip-whitelist.md)
 - [How to activate ssh in ESXi](checklists/esxi-ssh.md)
 - [How to increasing MySQL max connections](checklists/mysql-max-connection.md)
+- [How to Creating a New VLAN (Zone) in MikroTik RouterOS](checklists/new-zone-microtik-esxi.md)
 
 ---
 
